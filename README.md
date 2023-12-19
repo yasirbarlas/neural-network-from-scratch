@@ -2,7 +2,7 @@
 
 Note: This repository and its contents support the coursework of the INM702 module at City, University of London.
 
-We provide the code for Task 1 and Task 2, as Jupyter Notebooks. In Task 1 we create a neural network from scratch, and train it on the MNIST dataset. In Task 2, we use PyTorch on a London weather dataset to train a neural network.
+We provide the code for Task 1 and Task 2, as Jupyter Notebooks. In Task 1 we create a neural network from scratch, and train it on the MNIST dataset. In Task 2, we use PyTorch to train a neural network on a London weather dataset.
 
 ## Task 1
 
