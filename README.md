@@ -1,10 +1,10 @@
-# INM702: Programming and Mathematics for Artificial Intelligence
+# Building a Neural Network using NumPy and Time Series Analysis using PyTorch
 
 Note: This repository and its contents support the coursework of the INM702 module at City, University of London.
 
 We provide the code for Task 1 and Task 2, as Jupyter Notebooks. In Task 1 we create a neural network from scratch, and train it on the MNIST dataset. In Task 2, we use PyTorch to train a neural network on a London weather dataset. The output of the code is reproducible using the seed set in each notebook (which is 50).
 
-## Task 1
+## Building a Neural Network using NumPy
 
 Found in the 'task_1' folder.
 
@@ -14,7 +14,7 @@ We investigate the use of different architectures and parameters, and see how th
 
 NumPy Version == 1.24.3
 
-## Task 2
+## Time Series Analysis using PyTorch
 
 Found in the 'task_2' folder.
 
